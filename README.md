@@ -1,2 +1,1 @@
-# glacier
-Collection of analysis tools
+# Example Package
